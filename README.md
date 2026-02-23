@@ -7,4 +7,4 @@ Roadmap:
 [] - Lógica de Programação - ATUAL
 [] - API's - Django ou Flask
 [] - SQL e Banco de Dados - PostgreSQL
-[] - Devops - Docke
+[] - Devops - Docker
