@@ -254,9 +254,9 @@
 
 #ENTRADA# DE DADOS
 
-#x = inpu#t("Digite um número: ")
+#x = input("Digite um número: ")
 
-#print(x)#
+#print(x)
 
 #nome = input("Digite seu nome: ")
 
@@ -314,3 +314,34 @@
 #valor_final = preco_da_mercadoria - (preco_da_mercadoria * percentual_de_desconto / 100)
 
 #print(f"O valor do desconto é de R$ {valor_do_desconto:.2f}. O valor da mercadoria ficou R$ {valor_final:.2f}.")
+
+#Exercício 3.12
+
+#distancia_trajeto_km = float(input("Digite quantos KM de distância terá a viagem: "))
+#velocidade_media_kmh = float(input("Digite a velocidade média do carro em KM: "))
+#tempo_estimado = distancia_trajeto_km / velocidade_media_kmh
+#conversao_horas = int(tempo_estimado)
+#sobra_horas = tempo_estimado - conversao_horas
+#conversao_minutos = int(sobra_horas * 60)
+
+#print(f"Dirigindo a {velocidade_media_kmh} KM/h, você chegará ao seu destino em {conversao_horas}h{conversao_minutos:02d}m.")
+
+#Tive que fazer a conversão do tempo em horas, pois a divisão estava sendo feito em unidades
+#Ao simular 100KM em 88KM/h, retornava 1.14h, o que está incorreto, após a conversão, retornou 1h08m
+
+#Exercício 3.13
+
+#celcius = float(input("Digite a temperatura em Celcius: "))
+#celcius_para_fahrenheit = (9 * celcius / 5) + 32
+
+#print(f"A temperatura em Fahrenheit é de {celcius_para_fahrenheit}°.")
+
+#Exercício 3.14
+
+#dias_alugado = int(input("Digite a quantidade de dias que o carro foi alugado: "))
+#km_percorridos = float(input("Digite a quantidade de KM percorridos com o carro: "))
+#valor_por_km = km_percorridos * 0.15
+#valor_por_dia = dias_alugado * 60
+#valor_final_aluguel = valor_por_km + valor_por_dia
+
+#print(f"Você alugou o carro por {dias_alugado} dias e percorreu {km_percorridos} KM. O valor total a pagar é de R$ {valor_final_aluguel:.2f}.")
