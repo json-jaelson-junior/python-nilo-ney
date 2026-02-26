@@ -1,6 +1,4 @@
-#Seguirei as orientações do livro e digitarei tudo que for indicado com ">>>".
-#Os exercícios estão no site do livro: https://python.nilo.pro.br/exercicios4/
-#Estou apenas digitando as minhas respostas para eles, caso queira ver o enunciado, acesse o link acima.
+#CAPÍTULO 2
 
 #INTRODUÇÃO A OPERADORES MATEMÁTICOS:
 

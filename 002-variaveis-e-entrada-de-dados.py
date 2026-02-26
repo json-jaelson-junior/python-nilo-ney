@@ -1,3 +1,5 @@
+##CAPÍTULO 3
+
 #VARIÁVEIS NUMÉRICAS
 
 #Exercício 3.1
