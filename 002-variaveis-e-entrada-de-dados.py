@@ -347,3 +347,12 @@
 #valor_final_aluguel = valor_por_km + valor_por_dia
 
 #print(f"Você alugou o carro por {dias_alugado} dias e percorreu {km_percorridos} KM. O valor total a pagar é de R$ {valor_final_aluguel:.2f}.")
+
+#Exercício 3.15
+
+quantidade_cigarros_dia = int(input("Digite quantos cigarros você fuma por dia: "))
+anos_fumando = int(input("Digite a quantidade de anos que você já fumou: "))
+total_cigarros = quantidade_cigarros_dia * (anos_fumando * 365)
+dias_perdidos = (total_cigarros * 10 / 60) / 24
+
+print(f"Você fumou {total_cigarros} cigarros no total. Por isso, já perdeu {dias_perdidos:.0f} dias de vida.")
