@@ -1,12 +1,19 @@
 Esse repositório é destinado aos meus estudos utilizando o livro "Introdução à Programação com Python" do Nilo Ney.
 
-Seguirei as orientações do livro e digitarei tudo que for indicado com ">>>".
+Cada tópico será abordado da seguinte maneira:
 
-Todos os exercícios estão no site do livro: https://python.nilo.pro.br/exercicios4/
+```
+1 - Leitura da teoria
+2 - Seguirei as orientações do livro e digitarei tudo que for indicado com ">>>"
+3 - Farei os exercícios do tópico
+```
 
-Registrarei as minhas respostas para os exercícios e algumas anotações, caso queira ver o enunciado dos exercícios, acesse o link acima.
+Todos as respostas dos exercícios estão no site do livro: https://python.nilo.pro.br/exercicios4/
 
 Estou registrando todos os passos e atualizações no meu canal: https://www.youtube.com/@oJSONDev
+
+E-mail: ojsondev@gmail.com
+
 
 Roadmap geral:
 
