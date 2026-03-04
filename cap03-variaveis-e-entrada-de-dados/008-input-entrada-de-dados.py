@@ -1,5 +1,5 @@
 """
-CAPÍTULO 3
+### CAPÍTULO 3 ###
 
 Input - Entrada de Dados
 
@@ -36,7 +36,7 @@ print(f"Bônus de R$ {bonus:5.2f}")
 # Caso a conversão não seja feita, os números serão concatenados
 
 """
-### EXERCÍCIOS
+### EXERCÍCIOS ###
 
 Exercício 3.7 - Faça um programa que peça dois números inteiros. Imprima a soma desses dois números na tela.
 """

@@ -8,7 +8,7 @@ Cada tópico será abordado da seguinte maneira:
 3 - Farei os exercícios do tópico
 ```
 
-Todos as respostas dos exercícios estão no site do livro: https://python.nilo.pro.br/exercicios4/
+Todas as respostas dos exercícios estão no site do livro: https://python.nilo.pro.br/exercicios4/
 
 Estou registrando todos os passos e atualizações no meu canal: https://www.youtube.com/@oJSONDev
 

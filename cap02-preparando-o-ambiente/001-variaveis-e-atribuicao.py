@@ -1,5 +1,5 @@
 """
-CAPÍTULO 2
+### CAPÍTULO 2 ###
 
 Conceitos de variáveis e atribuição
 
@@ -25,7 +25,7 @@ print(salario + (salario * aumento / 100))
 print(1500 + (1500 * 5 / 100))
 
 """
-### EXERCÍCIOS
+### EXERCÍCIOS ###
 
 Exercício 2.3 - Faça um programa que exiba seu nome na tela.
 """

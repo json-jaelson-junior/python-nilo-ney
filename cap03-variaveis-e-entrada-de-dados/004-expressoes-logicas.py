@@ -1,5 +1,5 @@
 """
-CAPÍTULO 3
+### CAPÍTULO 3 ###
 
 Expressões lógicas
 
@@ -30,7 +30,7 @@ print(salario > 1000 and idade > 18) # False
 print(2000  > 1000 and 30 > 18) # True and True = True
 
 """
-### EXERCÍCIOS
+### EXERCÍCIOS ###
 
 Exercício 3.4 - Escreva uma expressão para determinar se uma pessoa deve ou não pagar importo.
 

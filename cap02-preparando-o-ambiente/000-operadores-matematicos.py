@@ -1,5 +1,5 @@
 """
-CAPÍTULO 2
+### CAPÍTULO 2 ###
 
 Operadores Matemáticos
 
@@ -19,7 +19,7 @@ print(16 % 7) # resto
 print(63 % 8) # resto
 
 """
-### EXERCÍCIOS
+### EXERCÍCIOS ###
 
 Exercício 2.1 - Converta as seguintes expressões matemáticas para que possam ser calculadas usando o interpretador Python:
 

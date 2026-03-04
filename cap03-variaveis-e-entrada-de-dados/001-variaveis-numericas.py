@@ -1,5 +1,5 @@
 """
-CAPÍTULO 3
+### CAPÍTULO 3 ###
 
 Variáveis numéricas e representação de valores numéricos
 
@@ -17,7 +17,7 @@ print(1_980.10) # 1980.1, _ pode ser combinado com ponto
 print(1980.1) # 1980.1
 
 """
-### EXERCÍCIO
+### EXERCÍCIO ###
 
 Exercício 3.1 - Complete a tabela a seguir, marcando inteiro ou ponto flutuante dependendo do número apresentado:
 

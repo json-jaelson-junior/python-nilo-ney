@@ -1,5 +1,5 @@
 """
-CAPÍTULO 3
+### CAPÍTULO 3 ###
 
 Operadores relacionais
 
@@ -44,7 +44,7 @@ aprovado = nota >= media
 print(aprovado) # True
 
 """
-### EXERCÍCIO
+### EXERCÍCIO ###
 
 Exercício 3.2 - Complete a tabela a seguir, respondendo True ou False.
 

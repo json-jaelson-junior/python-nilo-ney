@@ -1,5 +1,5 @@
 """
-CAPÍTULO 3
+### CAPÍTULO 3 ###
 
 Operadores lógicos
 
@@ -67,7 +67,7 @@ print(False or True) # True
 print(False or False) # False
 
 """
-### EXERCÍCIO
+### EXERCÍCIO ###
 
 Exercício 3.3 - Complete a tabela a seguir utilizando a = True, b = False e c = True.
 
