@@ -33,7 +33,7 @@ Nesse caso, exiba o valor da multa, cobrando R$ 5 por km acima de 80 km/h.
 
 velocidade = int(input("Digite a velocidade do carro: "))
 calculo_da_multa = (velocidade % 80) * 5
-km_alem_do_permitido = (velocidade % 80)
+km_alem_do_permitido = velocidade % 80
 
 if velocidade > 80:
     print(f"Você foi multado em R$ {calculo_da_multa}, pois está a {km_alem_do_permitido} km/h além do permitido.")
