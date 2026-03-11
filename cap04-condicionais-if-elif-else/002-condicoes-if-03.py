@@ -53,3 +53,18 @@ if numero3 < numero1 and numero3 <= numero2:
 
 print(f"O maior número é o número {maior_numero}.")
 print(f"O menor número é o número {menor_numero}.")
+
+"""
+Exercício 4.4 - Escreva um programa que pergunte o salário do funcionário e calcule o valor do aumento.
+Para salários superiores a R$ 1.250,00, calcule um aumento de 10%. Para os inferiores ou iguais, de 15%.
+"""
+
+# Resolução do exercício:
+
+salario = float(input("Digite o valor do seu salário: "))
+
+if salario > 1250:
+    print(f"O aumento do seu salário foi de R$ {salario * 0.10:.2f} e o valor do seu novo salário é de R$ {salario + (salario * 0.10):.2f}.")
+
+if salario <= 1250:
+    print(f"O aumento do seu salário foi de R$ {salario * 0.15:.2f} e o valor do seu novo salário é de R$ {salario + (salario * 0.15):.2f}.")
