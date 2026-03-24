@@ -1,6 +1,6 @@
 Esse repositório é destinado aos meus estudos utilizando o livro "Introdução à Programação com Python" do Nilo Ney.
 
-Cada tópico será abordado da seguinte maneira:
+Cada tópico é abordado da seguinte maneira:
 
 ```
 1 - Leitura da teoria
@@ -10,16 +10,4 @@ Cada tópico será abordado da seguinte maneira:
 
 Todas as respostas dos exercícios estão no site do livro: https://python.nilo.pro.br/exercicios4/
 
-Estou registrando todos os passos e atualizações no meu canal: https://www.youtube.com/@oJSONDev
-
 E-mail: ojsondev@gmail.com
-
-
-Roadmap geral:
-
-```
-[] - Lógica de Programação - ATUAL
-[] - API's - Django ou Flask
-[] - SQL e Banco de Dados - PostgreSQL
-[] - Devops - Docker
-```

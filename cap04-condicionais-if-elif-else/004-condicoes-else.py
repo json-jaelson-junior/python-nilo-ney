@@ -38,3 +38,39 @@ Verifique se os resultados foram os mesmos do Programa 4.2.
 # Resolução do exercício:
 
 print("Sim, os resultados são iguais.")
+
+"""
+Exercício 4.6 - Escreva um programa que pergunte a distância que um passageiro deseja percorrer em km.
+Calcule o preço da passagem, cobrando R$ 0,50 por km para viagens de até de 200 km, e R$ 0,45 para viagens mais longas.
+"""
+
+# Resolução do exercício:
+
+quilometragem = float(input("Digite a distância da sua viagem: "))
+
+if quilometragem <= 200:
+    print(f"O valor da sua passagem é de R$ {quilometragem * 0.50:.2f}.")
+else:
+    print(f"O valor da sua passagem é de R$ {quilometragem * 0.45:.2f}.")
+
+"""
+Exercício 4.7 - Analise o Programa 4.3. Faz sentido usar o else nesse programa?
+Explique sua resposta.
+
+### Programa 4.3: Cálculo do Imposto de Renda
+
+salario = float(input("Digite o salário para cálculo do imposto: "))
+base = salario #1
+imposto = 0
+
+if base > 3000: #2
+    imposto = imposto + ((base - 3000) * 0.35) #3
+    base = 3000 #4
+
+if base > 1000: #5
+    imposto = imposto + ((base - 1000) * 0.20) #6
+"""
+
+# Resolução do exercício:
+
+print("Não faz sentido utilizar else no Programa 4.3, devido às faixas salariais que ele analisa.")
