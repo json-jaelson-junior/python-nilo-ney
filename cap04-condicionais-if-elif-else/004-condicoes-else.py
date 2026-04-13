@@ -74,3 +74,35 @@ if base > 1000: #5
 # Resolução do exercício:
 
 print("Não faz sentido utilizar else no Programa 4.3, devido às faixas salariais que ele analisa.")
+
+"""
+Exercício 4.8 - Reescreva o Programa 4.4 e calcule a conta da operadora Tchau usando else.
+"""
+
+# Resolução do exercício:
+
+plano = input("Qual é o seu plano de celular? ")
+
+if plano != "falopouco" and plano != "falomuito":
+    print("Não conheço esse plano")
+else:
+    if plano == "falopouco":
+        minutos_no_plano = 100
+        extra = 0.20
+        preco = 50
+    else:
+        minutos_no_plano = 500
+        extra = 0.15
+        preco = 99
+
+    minutos_consumidos = int(input("Quantos minutos você consumiu? "))
+    
+    print(f"\nVocê vai pagar:")
+    print(f"\nPreço do plano:     R$ {preco:.2f}")
+    acrescimo = 0
+
+    if minutos_consumidos > minutos_no_plano:
+        acrescimo = extra * (minutos_consumidos - minutos_no_plano)
+
+    print(f"Acréscimo:          R$ {acrescimo:.2f}")
+    print(f"Total:              R$ {preco + acrescimo:.2f}")
